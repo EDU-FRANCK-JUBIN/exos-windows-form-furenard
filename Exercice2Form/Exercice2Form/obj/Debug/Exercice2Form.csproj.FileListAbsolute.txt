@@ -1,0 +1,10 @@
+C:\Users\antoi\source\repos\Exercice2Form\Exercice2Form\bin\Debug\Exercice2Form.exe.config
+C:\Users\antoi\source\repos\Exercice2Form\Exercice2Form\bin\Debug\Exercice2Form.exe
+C:\Users\antoi\source\repos\Exercice2Form\Exercice2Form\bin\Debug\Exercice2Form.pdb
+C:\Users\antoi\source\repos\Exercice2Form\Exercice2Form\obj\Debug\Exercice2Form.csprojAssemblyReference.cache
+C:\Users\antoi\source\repos\Exercice2Form\Exercice2Form\obj\Debug\Exercice2Form.Form1.resources
+C:\Users\antoi\source\repos\Exercice2Form\Exercice2Form\obj\Debug\Exercice2Form.Properties.Resources.resources
+C:\Users\antoi\source\repos\Exercice2Form\Exercice2Form\obj\Debug\Exercice2Form.csproj.GenerateResource.cache
+C:\Users\antoi\source\repos\Exercice2Form\Exercice2Form\obj\Debug\Exercice2Form.exe
+C:\Users\antoi\source\repos\Exercice2Form\Exercice2Form\obj\Debug\Exercice2Form.pdb
+C:\Users\antoi\source\repos\Exercice2Form\Exercice2Form\obj\Debug\Exercice2Form.csproj.CoreCompileInputs.cache
