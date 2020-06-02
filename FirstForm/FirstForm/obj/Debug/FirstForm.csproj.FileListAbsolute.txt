@@ -1,0 +1,9 @@
+C:\Users\antoi\source\repos\FirstForm\FirstForm\bin\Debug\FirstForm.exe.config
+C:\Users\antoi\source\repos\FirstForm\FirstForm\bin\Debug\FirstForm.exe
+C:\Users\antoi\source\repos\FirstForm\FirstForm\bin\Debug\FirstForm.pdb
+C:\Users\antoi\source\repos\FirstForm\FirstForm\obj\Debug\FirstForm.csprojAssemblyReference.cache
+C:\Users\antoi\source\repos\FirstForm\FirstForm\obj\Debug\FirstForm.Form1.resources
+C:\Users\antoi\source\repos\FirstForm\FirstForm\obj\Debug\FirstForm.Properties.Resources.resources
+C:\Users\antoi\source\repos\FirstForm\FirstForm\obj\Debug\FirstForm.csproj.GenerateResource.cache
+C:\Users\antoi\source\repos\FirstForm\FirstForm\obj\Debug\FirstForm.exe
+C:\Users\antoi\source\repos\FirstForm\FirstForm\obj\Debug\FirstForm.pdb
